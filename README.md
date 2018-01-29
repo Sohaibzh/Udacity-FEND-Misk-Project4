@@ -8,6 +8,8 @@
 3. Add Media in the Script
 
 ##### Results in PageSpeed Insights!
+![Mobile Test](https://github.com/Sohaibzh/Udacity-FEND-Misk-Project4/blob/master/img/IndexTest1.png) 
+![Desktop Test](https://github.com/Sohaibzh/Udacity-FEND-Misk-Project4/blob/master/img/IndexTest2.png) 
 
 
 
@@ -42,8 +44,8 @@ Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 4. Created a local variable to save **document.getElements** outside the loops
 
 ##### Results After Optimization
-
-
+![Load Time](https://github.com/Sohaibzh/Udacity-FEND-Misk-Project4/blob/master/img/pizzaTest1.png) 
+![FPS](https://github.com/Sohaibzh/Udacity-FEND-Misk-Project4/blob/master/img/pizzaTest2.png) 
 
 
 #### Customization with Bootstrap
