@@ -6,6 +6,7 @@
 1. Re-sized the thumbnail image
 2. Write the Necessary Style as inline as an Inline Script
 3. Add Media in the Script
+4. Load the Google Font using Web Font Loader instead of the old way [here](https://github.com/typekit/webfontloader)
 
 ##### Results in PageSpeed Insights!
 ![Mobile Test](https://github.com/Sohaibzh/Udacity-FEND-Misk-Project4/blob/master/img/IndexTest1.png) 
